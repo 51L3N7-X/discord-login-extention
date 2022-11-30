@@ -10,7 +10,7 @@
 ## Authors
 
 - [@z7pz](https://www.github.com/z7pz)
-- [@AbdullahSH](https://www.github.com/AbdullahSH2004)
+- [@51L3N7](https://www.github.com/51L3N7-X)
 
 ## License
 
